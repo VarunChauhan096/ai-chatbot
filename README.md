@@ -20,4 +20,4 @@ streamlit run aichatbot.py
 - LLaMA 3.3 70B
 
 ## Live Demo
-[Click here to try it!](your_streamlit_link_here)
+[Click here to try it!](https://ai-chatbot-8pwnqwhlpoydztjec5qpuv.streamlit.app)
